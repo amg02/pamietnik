@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Rok 2020
 
-You can use the [editor on GitHub](https://github.com/amg02/pamietnik/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Zdjęcia](https://photos.google.com/album/AF1QipPQTIYFgGHqYbx9Pl4M8h57hoA-zZAlhw4Ax0aK)
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkA3jyNJ9JwQ9waYZTJf5V2O)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Rok 2019
 
-### Markdown
+- [Zdjęcia](https://photos.google.com/album/AF1QipNIACiX_a3veYSp6JhBWurwsYbYawzo8BKtpMwI)
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkC9KBKETV5qTdKk1llGaQZ9)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Rok 2018
 
-```markdown
-Syntax highlighted code block
+- [Zdjęcia](https://photos.google.com/share/AF1QipPqwCoULKwM1842pxph9JZSCtBLtPtgEzJkJKf3m-RiSkgVOA05g7HwKHekSkgJcA?key=dFp2SmVxZHlMbFpqYjB6TU9WWHFQa20yTTN5aEhn)
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkCaROP2Ee-u_MrJZU3AOM5N)
 
-# Header 1
-## Header 2
-### Header 3
+## Rok 2017
 
-- Bulleted
-- List
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkAldCeg3cXwe1MfF09rt_J2)
 
-1. Numbered
-2. List
+## Rok 2016
 
-**Bold** and _Italic_ and `Code` text
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkCiNVr3QUdHZwFlliiMKH9J)
 
-[Link](url) and ![Image](src)
-```
+## Rok 2015
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkCS-aCVBLEMjZMFQ-uQ67G7)
 
-### Jekyll Themes
+## Rok 2014
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amg02/pamietnik/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkCNXV3_11FE1zRSjbYizjkh)
