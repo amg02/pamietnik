@@ -10,7 +10,7 @@
 
 ## Rok 2018
 
-- [Zdjęcia](https://photos.google.com/share/AF1QipPqwCoULKwM1842pxph9JZSCtBLtPtgEzJkJKf3m-RiSkgVOA05g7HwKHekSkgJcA?key=dFp2SmVxZHlMbFpqYjB6TU9WWHFQa20yTTN5aEhn)
+- [Zdjęcia](https://photos.app.goo.gl/mAz5jP377dL6nPGC7)
 - [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkCaROP2Ee-u_MrJZU3AOM5N)
 
 ## Rok 2017
