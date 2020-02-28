@@ -1,11 +1,11 @@
 ## Rok 2020
 
-- [Zdjęcia](https://photos.google.com/album/AF1QipPQTIYFgGHqYbx9Pl4M8h57hoA-zZAlhw4Ax0aK)
+- [Zdjęcia](https://photos.app.goo.gl/mCvJK53CyGCKYMeTA)
 - [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkA3jyNJ9JwQ9waYZTJf5V2O)
 
 ## Rok 2019
 
-- [Zdjęcia](https://photos.google.com/album/AF1QipNIACiX_a3veYSp6JhBWurwsYbYawzo8BKtpMwI)
+- [Zdjęcia](https://photos.app.goo.gl/fDTNkrcSk2BgLg4Y7)
 - [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkC9KBKETV5qTdKk1llGaQZ9)
 
 ## Rok 2018
