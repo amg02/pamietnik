@@ -29,4 +29,4 @@
 * [Filmy](https://www.youtube.com/playlist?list=PLkcY2eU8NDkD8a-khZaFMNwgutwYAHucu)
 
 # Budowa
-* [Zdjęcia](https://photos.google.com/album/AF1QipPVoHsCOnPudtgvi8q9xM5Tj7CFDgDVCln8Za4Y)
+* [Zdjęcia](https://photos.app.goo.gl/LFq6A7n9NwbK4Dbs9)
